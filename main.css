@@ -1,3 +1,19 @@
 body {
 	background-color: aqua;
 }
+
+section {
+	border: 5px dotted hotpink;
+}
+
+.instructor {
+	background-color: lime;
+}
+
+#ugh-lauren {
+	background-color: purple;
+}
+
+#ugh-lauren > h1 {
+	text-transform: uppercase;
+}
